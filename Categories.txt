@@ -1,0 +1,8 @@
+alexander,amanda,nicholas,ethan,emma,caitlyn,francis,michelle,jake,pumpkin,athena,christopher,james,alicia,megan,thomas,melody,evan,kenze,harambe,philip,katherine,john,mary,steven,michael,oliver,henry,gordon
+lord of the rings,predator,matrix,v for vendetta,irobot,straight outta compton,interstellar,inglorious bastards,resident evil,ghostbusters,batman vs superman,batman begins,finding dory,cabin in the woods
+cat,tiger,elephant,dog,chimpanzee,narwhal,worm,eagle,manatee,caterpillar,bass,cow,earth worm,bird,spider,inch worm,gold fish,bearded dragon,komodo dragon,cobra,rattle snake
+corn,shrimp,lobster,burger,peas,apple,cheese,peppers,pizza,fries,chicken,tomato,ribs,lettuce,avocado,pasta,egg roll,wonton,ramen,chicken nugggets,cabbage,olives,leeks,pumpkin
+united states,bangladesh,united kingdom,ireland,mongolia,vietnam,nicaragua,mexico,china,india,brazil,phillipines,malaysia,pakistan,russia,saudi arabia,uzbekistan,
+bulbasaur,ivysaur,venusaur,charmander,charmeleon,charizard,squirtle,wartortle,blastoise,caterpie,metapod,butterfree,weedle,kauna,beedrill,pidgey,pidgeotto,pidgeot
+jon snow,gregor clegane,cersei lannister,arya stark,daenerys targaryen,kings landing,house baratheon,house stark,castle black,winterfell,margaery tyrell,westeros,iron islands
+sun,moon,earth,mars,sirius,polaris,oort cloud,uranus,light,voyager 1,challenger,vega,arcturus,aldebaran,canopus,deneb,altair,betelgeuse,milky way,andromeda,black hole
